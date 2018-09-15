@@ -1,0 +1,11 @@
+Al principio del juego Ralph trepa por un hotel rompiendo ventanas a su paso.
+El trabajo de Félix es reparar cada ventana con su martillo,evitando que lo toquen los ladrillos que Ralph tira, y al pájaro que vuela horizontalmente a lo largo de la pantalla. 
+Los ladrillos que caen pueden romper ventanas en niveles mas avanzados. 
+En algunas de las secciones, si el jugador tarda cierto tiempo en reparar todas las ventanas, un Nicelander aparecerá para dejar un pastel, que Felix podrá recoger y así
+obtener inmunidad por un tiempo.
+A medida que avanza el juego, habrá mas dificultades, además habrán más ventanas para reparar, las cuales pueden ser rotas a causa de una ladrillo forzando al jugador a volver hacia atrás para repararlas nuevamente.
+Los niveles mas altos tendrán, en forma aleatoria, cierta cantidad de obstáculos, ya sean balcones,moldaduras o ventanas con hojas abiertas. Los balcones evitan que Felix pueda ir hacia abajo,
+las moldaduras impiden que pueda dirigirse hacia arriba; y las ventanas con hojas abiertas bloquean el movimiento a derecha o izquierda según sea la hoja que se encuentre abierta.
+Cuando Felix logre reparar tres secciones de ventanas,avanzará de nivel a uno de mayor dificultad. Por cada ventana que el jugador logre reparar ganará 100 puntos y,
+si reparó la última ventana de la seccion actual, ganará 500 puntos.
+Con las flechas se podrá controlar a Felix y con la barra espaciadora se podrán reparar las ventanas.
